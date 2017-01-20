@@ -1,6 +1,6 @@
 import Timeago from 'timeago.js'
 
-const timeago = new Timeago(null, 'zh_CN')
+const timeago = new Timeago()
 
 export default (Vue) => {
   // https://github.com/hustcc/timeago.js#1-usage
