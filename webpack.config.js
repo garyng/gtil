@@ -20,7 +20,7 @@ module.exports = {
   entry: './src/main.js',
   output: {
     path: path.resolve(__dirname, './dist'),
-    publicPath: '/gtil/',
+    publicPath: isProd ? '/gtil/' : '/',
     filename: isProd ? 'build.[chunkhash:5].js' : 'build.js'
   },
   resolve: {
