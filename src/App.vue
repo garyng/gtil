@@ -1,7 +1,7 @@
 <template>
   <div id='app'>
     <header class="header">
-      <router-link to="/">{{ title }}</router-link>
+      <router-link to="/gtil/">{{ title }}</router-link>
       <div style="clear: both"></div>
       <input class="search-bar" placeholder="Search.."
         ref="searchBar" v-model="keyword"
