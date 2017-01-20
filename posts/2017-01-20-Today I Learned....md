@@ -3,6 +3,7 @@ layout: post
 title: 'Today I Learned...'
 tags: ['']
 description: ''
+date: '2017-01-20 14:00'
 image: ''
 author: 'GaryNg'
 ---
