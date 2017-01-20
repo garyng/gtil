@@ -8,12 +8,12 @@ Vue.use(VueRouter)
 
 const routes = [
   {
-    path: '/',
+    path: '/gtil/',
     name: 'list',
     component: ListView
   },
   {
-    path: '/post/:hash',
+    path: '/gtil/post/:hash',
     name: 'post',
     component: PostView
   }
