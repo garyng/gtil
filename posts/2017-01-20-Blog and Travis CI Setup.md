@@ -31,7 +31,7 @@ Using **[Chocolatey](https://chocolatey.org/install)** to install Ruby
 iwr https://chocolatey.org/install.ps1 -UseBasicParsing | iex
 ```
 Remember to run PowerShell as _**admin**_  
-  `Set-ExecutionPolicy RemoteSigned -Scope Process` if PowerShell refuse to install
+`Set-ExecutionPolicy RemoteSigned -Scope Process` if PowerShell refuse to install
 
 ```bash
 choco install ruby
@@ -41,12 +41,12 @@ choco install ruby
 gem install travis
 ```  
 
-  sidenote: string with a colon followed by a space in .yml will fail the parser...
-  ```
-  ...
-  - git commit -m "chore(deploy): deploy from Tarvis CI"
-  ...
-  ```
+sidenote: string with a colon followed by a space in .yml will fail the parser...
+```
+...
+- git commit -m "chore(deploy): deploy from Tarvis CI"
+...
+```
 
 ### RubyGems SSL Certificate Updartes
 Refer to http://guides.rubygems.org/ssl-certificate-update/  
