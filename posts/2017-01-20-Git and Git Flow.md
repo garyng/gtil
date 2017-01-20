@@ -27,7 +27,7 @@ can be combined with other options
 
 ### Remove directories
 ```
-git clean -d`
+git clean -d
 ```
 
 ### Remove ignored files
@@ -67,3 +67,5 @@ SO: [How to clone a single branch in git?](http://stackoverflow.com/a/9920956/10
 
 
 # Git Workflow
+
+WIP
