@@ -1,7 +1,8 @@
 ---
 layout: post
 title: 'Cake - Remove Solution Folders in .Projects Properties'
-tags: ['C#','Cake']
+tags: ['C#', 'Cake', '.NET']
+categories: ['C#']
 description: ''
 date: '2017-01-21 12:14'
 image: ''

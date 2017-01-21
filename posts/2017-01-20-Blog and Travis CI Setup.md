@@ -2,6 +2,7 @@
 layout: post
 title: 'Blog and Travis CI Setup'
 tags: ['Travis','Chocolatey','Markdown']
+categories: ['Others']
 description: ''
 date: '2017-01-20 22:52'
 image: ''

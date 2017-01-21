@@ -1,7 +1,8 @@
 ---
 layout: post
 title: 'Git and Git Flow'
-tags: ['Git']
+tags: ['Git','Git Flow']
+categories: ['Git']
 description: ''
 date: '2017-01-20 23:46'
 image: ''

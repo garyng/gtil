@@ -1,7 +1,8 @@
 ---
 layout: post
 title: 'Cake - C# Make'
-tags: ['C#', 'Cake']
+tags: ['C#', 'Cake', '.NET']
+categories: ['C#']
 description: ''
 date: '2017-01-21 12:03'
 image: ''
