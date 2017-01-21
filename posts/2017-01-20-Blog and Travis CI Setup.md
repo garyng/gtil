@@ -60,7 +60,8 @@ Sublime Text 3? - Poor support for Chinese Language
 - [markdown-writer](https://atom.io/packages/markdown-writer)
   - Able to customize config for each project (docs: https://github.com/zhuochun/md-writer/wiki/Settings-for-individual-projects)!
   - Ctrl + Shift + P > Markown Writer: Create Project Configs
-- [Toolbar for Markdown-Writer](https://atom.io/packages/tool-bar-markdown-writer) which depends on [tool-bar](https://atom.io/packages/tool-bar)
+- [tool-bar-markdown-writer](https://atom.io/packages/tool-bar-markdown-writer) which depends on [tool-bar](https://atom.io/packages/tool-bar)
+- [markdown-preview](https://atom.io/packages/markdown-preview)
 
 ## Git Plugin
 - [git-plus](https://atom.io/packages/git-plus)
