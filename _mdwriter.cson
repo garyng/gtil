@@ -50,6 +50,7 @@ frontMatter: """
 layout: post
 title: '<title>'
 tags: ['']
+categories: ['']
 description: ''
 date: '<date>'
 image: ''
